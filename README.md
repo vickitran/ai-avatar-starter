@@ -2,7 +2,7 @@
 
 Buildspace's Build an [AI Avatar generator project](https://buildspace.so/p/build-ai-avatars/l])
 
-![landingpage]()
+![landingpage](https://github.com/vickitran/ai-avatar-starter/blob/77942831e348de96e1e1ef256d9b63b360eec9fb/assets/landingpage.png)
 
 # Buildspace Boilerplate
 
