@@ -4,6 +4,9 @@ Buildspace's Build an [AI Avatar generator project](https://buildspace.so/p/buil
 
 ![landingpage](https://github.com/vickitran/ai-avatar-starter/blob/77942831e348de96e1e1ef256d9b63b360eec9fb/assets/landingpage.png)
 
+Note you will need a [HuggingFace API Read Key!](https://huggingface.co/)
+
+
 # Buildspace Boilerplate
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
